@@ -1,0 +1,11 @@
+{
+"name": "vite.min.js",
+"version": "15.0.0-2",
+"description": "",
+"type": "module",
+"main": "package.js",
+"dependencies": {
+	"vite": "latest",
+	"@vitejs/plugin-vue": "latest"
+	}
+}
